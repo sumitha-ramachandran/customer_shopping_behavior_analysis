@@ -129,6 +129,10 @@ Some of the findings include:
 - Run the SQL queries in PostgreSQL/pgAdmin.
 - Open the Power BI dashboard to explore the visualizations.
 
+## 📑 Project Presentation
+
+[View Project Presentation](https://gamma.app/docs/Customer-growth-is-a-loyalty-and-conversion-problem-2g61nrz2mhgoqh8)
+
 ## 👩‍💻 Author
 
 **Sumitha Ramachandran**
