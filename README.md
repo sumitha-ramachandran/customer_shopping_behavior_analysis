@@ -125,24 +125,9 @@ Some of the findings include:
 
 ## ▶️ How to Run
 
-### Python Analysis
-
-1. Clone or download this repository.
-2. Open `customer_shopping_behavior_analysis.ipynb` in Jupyter Notebook or JupyterLab.
-3. Install the required Python libraries.
-4. Run the notebook cells in order.
-
-### SQL Analysis
-
-1. Install PostgreSQL and pgAdmin.
-2. Create a database.
-3. Import the customer shopping behavior dataset.
-4. Open `customer_shopping_behavior_queries.sql` in pgAdmin.
-5. Run the queries to reproduce the analysis.
-
-### Power BI
-
-Open the Power BI dashboard file and connect it to the customer shopping behavior dataset or PostgreSQL database as required.
+- Open the Jupyter Notebook to view the Python analysis.
+- Run the SQL queries in PostgreSQL/pgAdmin.
+- Open the Power BI dashboard to explore the visualizations.
 
 ## 👩‍💻 Author
 
